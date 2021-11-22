@@ -9,6 +9,4 @@
 [Programming Assignment: Exercise 3 - Horses vs. humans using Transfer Learning](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Convolutional%20Neural%20Networks%20in%20TensorFlow/Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
 
 ## Week 4 - Multiclass Classifications
-[Programming Assignment: Exercise 4 - Multi-class classifier]()
-
-Unable to download `horse-or-human.zip`
+[Programming Assignment: Exercise 4 - Multi-class classifier](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Convolutional%20Neural%20Networks%20in%20TensorFlow/Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
