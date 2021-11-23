@@ -1,5 +1,5 @@
 # Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-- [View Coursera Certificate]()
+- [View Coursera Certificate](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Coursera%20Certificate%20Introduction%20to%20tensorflow.pdf)
 ## 1 - A New Programming Paradigm
 - [Programming Assignment: Exercise 1](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Exercise_1_House_Prices_Question.pdf)
 
