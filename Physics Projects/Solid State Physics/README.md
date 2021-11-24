@@ -6,7 +6,7 @@
 - [Image of the Density of States]()
 ## - Adding Sigma orbitals to the Band Structure
 - [Wolfram Notbook sigma](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/Graphene%20sigma.nb)
-- [3D Immage of the dispersion bands]()
+- [3D Immage of the dispersion bands](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/3D_dispersion_bands.png)
 - [2D Immage of electronic structure]()
 # References:
 - Simplified LCAO Method for the Periodic Potential Problem - Slater, PHYSICAL REVIEW, VOLUME 94, NUMBER 6
