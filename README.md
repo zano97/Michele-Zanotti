@@ -5,6 +5,7 @@
 
     - [Coursera Projects on Machine Learning](https://github.com/zano97/Michele-Zanotti/tree/main/Coursera)
     - [Physics Projects](https://github.com/zano97/Michele-Zanotti/tree/main/Physics%20Projects)
+    - [Data Science Projects](https://github.com/zano97/Projects/tree/main/Data%20Science)
 - 📫 Here are my contacts:
 
     - LinkedIn: http://linkedin.com/in/michele-zanotti-7485b420a
