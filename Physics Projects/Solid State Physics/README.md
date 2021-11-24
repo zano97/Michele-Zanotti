@@ -2,7 +2,7 @@
 # Projects:
 ## - Only Pi orbitals Graphene band structure
 - [Wolfram Notbook only Pi]()
-- [2D Immage of electronic structure only Pi]()
+- [2D Immage of electronic structure only Pi](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/dispersion_bands_pzTNN.png)
 - [Image of the Density of States]()
 ## - Adding Sigma orbitals to the Band Structure
 - [Wolfram Notbook sigma](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/Graphene%20sigma.nb)
