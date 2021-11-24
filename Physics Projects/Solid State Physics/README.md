@@ -7,7 +7,7 @@
 ## - Adding Sigma orbitals to the Band Structure
 - [Wolfram Notbook sigma](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/Graphene%20sigma.nb)
 - [3D Immage of the dispersion bands](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/3D_dispersion_bands.png)
-- [2D Immage of electronic structure]()
+- [2D Immage of electronic structure](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/struttura%20a%20bande.png)
 # References:
 - Simplified LCAO Method for the Periodic Potential Problem - Slater, PHYSICAL REVIEW, VOLUME 94, NUMBER 6
 - Tight binding parameters for graphene - Rupali Kundu, Institute of Physics, Bhubaneswar 751005 India
