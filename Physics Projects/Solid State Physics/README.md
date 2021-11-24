@@ -5,7 +5,7 @@
 - [2D Immage of electronic structure only Pi]()
 - [Image of the Density of States]()
 ## - Adding Sigma orbitals to the Band Structure
-- [Wolfram Notbook sigma]()
+- [Wolfram Notbook sigma](https://github.com/zano97/Michele-Zanotti/blob/main/Physics%20Projects/Solid%20State%20Physics/Graphene%20sigma.nb)
 - [3D Immage of the dispersion bands]()
 - [2D Immage of electronic structure]()
 # References:
