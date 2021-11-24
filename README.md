@@ -3,8 +3,8 @@
 - 🌱 I’m enrolled in a Master's degree in Physics for technologies and innovations and currently enrolled in several Coursera courses about Machine Learning and Artificial Inteligence 
 - 💼 If you want to see some of my projects:
 
-    - [Coursera Projects on Machine Learning]()
-    - [Physics Projects]()
+    - [Coursera Projects on Machine Learning](https://github.com/zano97/Michele-Zanotti/tree/main/Coursera)
+    - [Physics Projects](https://github.com/zano97/Michele-Zanotti/tree/main/Physics%20Projects)
 - 📫 Here are my contacts:
 
     - LinkedIn: http://linkedin.com/in/michele-zanotti-7485b420a
