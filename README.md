@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Michele Zanotti 
 - 👀 I’m interested in Physics and Data Science
 - 🌱 I’m enrolled in a Master's degree in Physics for technologies and innovations and currently enrolled in several Coursera courses about Machine Learning and Artificial Inteligence 
+- 💼 If you want to see some of my projects:
+
+    - [Coursera Projects on Machine Learning]()
+    - [Physics Projects]()
 - 📫 Here are my contacts:
 
     - LinkedIn: http://linkedin.com/in/michele-zanotti-7485b420a
