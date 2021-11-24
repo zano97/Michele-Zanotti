@@ -1,9 +1,13 @@
 # 🔬 In this project i have studied the electronic band structure of the graphene, the project is developed on Wolfram Mathematica.
 # Projects:
-- Only Pi Graphene band structure
-
-- Adding Sigma to the Band Structure
-
+## - Only Pi orbitals Graphene band structure
+- [Wolfram Notbook only Pi]()
+- [2D Immage of electronic structure only Pi]()
+- [Image of the Density of States]()
+## - Adding Sigma orbitals to the Band Structure
+- [Wolfram Notbook sigma]()
+- [3D Immage of the dispersion bands]()
+- [2D Immage of electronic structure]()
 # References:
 - Simplified LCAO Method for the Periodic Potential Problem - Slater, PHYSICAL REVIEW, VOLUME 94, NUMBER 6
 - Tight binding parameters for graphene - Rupali Kundu, Institute of Physics, Bhubaneswar 751005 India
