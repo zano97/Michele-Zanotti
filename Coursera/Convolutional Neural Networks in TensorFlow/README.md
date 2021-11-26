@@ -1,4 +1,4 @@
-# Convolutional Neural Networks in TensorFlow by DeepLearning.AI
+# 💻 Convolutional Neural Networks in TensorFlow by DeepLearning.AI
 - [View Coursera Certificate](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Convolutional%20Neural%20Networks%20in%20TensorFlow/Coursera%20Certificate%20Convolutional%20neural%20networks.pdf)
 ## 1 - Exploring a Larger Dataset
 - [Programming Assignment: Exercise 1 - Cats vs. Dogs](https://github.com/zano97/Michele-Zanotti/blob/main/Coursera/Convolutional%20Neural%20Networks%20in%20TensorFlow/Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
