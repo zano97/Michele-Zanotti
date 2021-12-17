@@ -5,7 +5,8 @@
 
 ## 2 - Word Embeddings
 - [Programming Assignment: Exercise 2](https://github.com/zano97/Projects/blob/main/Coursera/Natural%20Language%20Processing/C3_W2_Assignment.ipynb)
-  If you load [vectors]() and [metadata]() in this site http://projector.tensorflow.org/ you will see al the words in a vectorial space representation.
+  
+  If you load [vectors](https://github.com/zano97/Projects/blob/main/Coursera/Natural%20Language%20Processing/vecs.tsv) and [metadata](https://github.com/zano97/Projects/blob/main/Coursera/Natural%20Language%20Processing/meta.tsv) in this site http://projector.tensorflow.org/ you will see al the words in a vectorial space representation.
 
 ## 3 - Sequence Models
 - [Programming Assignment: Exercise 3](https://github.com/zano97/Projects/blob/main/Coursera/Natural%20Language%20Processing/C3_W3_Assignment.ipynb)
