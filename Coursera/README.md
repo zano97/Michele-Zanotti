@@ -6,4 +6,4 @@
   - [Natural Language Processing](https://github.com/zano97/Projects/tree/main/Coursera/Natural%20Language%20Processing)
   - [Sequences, Time Series and Prediction](https://github.com/zano97/Projects/tree/main/Coursera/Sequences%2C%20Time%20Series%20and%20Prediction)
   
-  [Here]() you can find the professional certificate I received after completing the four courses
+  [Here](https://github.com/zano97/Projects/blob/main/Coursera/Coursera%207CX2CLG94YFQ.pdf) you can find the professional certificate I received after completing the four courses
