@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michele Zanotti 
 - 👀 I’m interested in Physics and Data Science
-- 🌱 I’m enrolled in a Master's degree in Physics for technologies and innovations and currently enrolled in several Coursera courses about Machine Learning and Artificial Inteligence 
+- 🌱 I’m enrolled in an International PhD in Science focused on the developement on novel architectures for gas sensing and currently enrolled in several Coursera courses about Machine Learning and Artificial Inteligence 
 - 💼 If you want to see some of my programming projects:
 
     - [Coursera Projects on Machine Learning](https://github.com/zano97/Michele-Zanotti/tree/main/Coursera)
@@ -12,4 +12,4 @@
     
     - Publications: https://orcid.org/0000-0002-6673-757X
 
-    - Email: michele.zanotti01@icatt.it
+    - Email: michele.zanotti@unicatt.it
